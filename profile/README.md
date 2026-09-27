@@ -1,4 +1,4 @@
-**RK is a local-first Research Knowledge Platform built around AI.**
+## **RK is a local-first Research Knowledge Platform built around AI.**
 
 RK Workspace brings your AI models, documents, notes and the web into one environment. Work with any supported model, research the web, build and organize knowledge, extend the platform with skills and plugins, and produce reports in your own templates.
 
